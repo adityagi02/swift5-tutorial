@@ -11,7 +11,7 @@ This Swift tutorial is designed for absolute beginners and it introduces you to 
 
 ## Table of Contents
 
-* [Installing XCode and Swift Playground](https://github.com/adityagi02/swift5-tutorial/tree/main/XCode%20Installations)
+* [Installing XCode and Swift Playground](https://github.com/adityagi02/swift5-tutorial/blob/main/XCode%20Installation/Notes/Notes.pdf)
   * [Swift in CLI](# )
   * [Swift Playground](#accessing-local-variables)
   * [Swift REPL](#accessing-fields-and-static-variables)
