@@ -16,5 +16,5 @@ This Swift tutorial is designed for absolute beginners and it introduces you to 
   * [Swift Playground](https://github.com/adityagi02/swift5-tutorial/tree/main/XCode%20Installation)
   * [Swift REPL](https://developer.apple.com/swift/blog/?id=18)
  
-* [Constants, Variables, and Data Types](https://github.com/adityagi02/swift5-tutorial/tree/main/Constants%2C%20Variables%2C%20and%20Data%20Types)
+* [Constants, Variables, and Data Types](https://github.com/adityagi02/swift5-tutorial/tree/main/Constants%2C%20Variables%20and%20Data%20Types)
 
