@@ -11,7 +11,7 @@ This Swift tutorial is designed for absolute beginners and it introduces you to 
 
 ## Table of Contents
 
-* [Installing XCode and Swift Playground](https://github.com/adityagi02/swift5-tutorial/tree/main/XCode%20Installation)
+* [Installing XCode and Swift Playground](https://github.com/adityagi02/swift5-tutorial/tree/main/XCode%20Installation) ([Video](https://youtu.be/ubuzv2a-WGk))
   * [Swift in CLI]( https://github.com/adityagi02/swift5-tutorial/tree/main/XCode%20Installation)
   * [Swift Playground](https://github.com/adityagi02/swift5-tutorial/tree/main/XCode%20Installation)
   * [Swift REPL](https://developer.apple.com/swift/blog/?id=18)
