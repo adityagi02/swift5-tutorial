@@ -20,6 +20,7 @@ This Swift tutorial is designed for absolute beginners and it introduces you to 
   * [var vs let](https://github.com/adityagi02/swift5-tutorial/tree/main/Constants%2C%20Variables%20and%20Data%20Types) ([Video](https://youtu.be/AL4trKzttrs))
   * [Basic Syntax](https://github.com/adityagi02/swift5-tutorial/tree/main/Constants%2C%20Variables%20and%20Data%20Types) ([Video](https://youtu.be/XkFBUhTfSQ0))
   * [Int, Doubles & Tuples](https://github.com/adityagi02/swift5-tutorial/tree/main/Integers%2C%20Double%20%26%20Tuples)
+  * [Integer and Floating-Point Conversion](https://github.com/adityagi02/swift5-tutorial/tree/main/Integer%20and%20Floating-Point%20Conversion)
   * [String & Char](https://developer.apple.com/swift/blog/?id=18)
 
 * [Basic Operators](https://github.com/adityagi02/swift5-tutorial/tree/main/Constants%2C%20Variables%20and%20Data%20Types)
